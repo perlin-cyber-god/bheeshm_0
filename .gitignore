@@ -1,0 +1,18 @@
+# 1. Python Virtual Environment & Cache
+venv/
+__pycache__/
+*.py[cod]
+
+# 2. Machine Learning Datasets (Massive files)
+archive(1)/
+*.csv
+
+# 3. Hardware Simulation Artifacts (Massive files)
+*.vcd
+bheeshm_sim
+bheeshm_sim.out
+a.out
+
+# 4. OS Generated Files
+.DS_Store
+Thumbs.db
