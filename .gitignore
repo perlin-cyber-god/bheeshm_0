@@ -16,3 +16,8 @@ a.out
 # 4. OS Generated Files
 .DS_Store
 Thumbs.db
+
+# 5. VS Code Cache & Database (Can grow to GB+)
+.vscode/*.db
+.vscode/*.db-shm
+.vscode/*.db-wal
