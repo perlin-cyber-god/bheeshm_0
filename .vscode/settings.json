@@ -1,4 +1,5 @@
 {
+    "python.defaultInterpreterPath": "/home/perli/Documents/personal/Projects/bheeshm/venv/bin/python",
     "ros.distro": "jazzy",
     "ROS2.distro": "jazzy",
     "python.autoComplete.extraPaths": [
